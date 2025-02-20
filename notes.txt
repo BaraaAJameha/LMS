@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hi everyone!
 Full Stack Line  
+||||||| 9e620f2
+hi everyone!
+=======
+hi everyone!
+Entity framework line
+>>>>>>> 6ec19b739b7b854afdade2559f4bc50a1d443d1f
